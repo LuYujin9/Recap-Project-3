@@ -9,3 +9,7 @@
 .button:hover {
   background-color: var(--color-nemo);
 }
+
+.button:disabled {
+  color: gray;
+}
