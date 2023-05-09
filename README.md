@@ -8,3 +8,6 @@ This is a single page app for browsing all the characters of the famous tv show 
 - CSS
 - JavaScript
 - APIs fetch
+
+## Preview
+[Rick and Morty App](https://recap-project-3.vercel.app)
